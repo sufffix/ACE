@@ -2,12 +2,16 @@
 
 ## [Unreleased]
 
-## [0.2.0]
+## [0.2.0] TBD
 
 ### Added
-- Capture Point Gui-
+
+- Capture Point Gui
+- Jeep Regeneration
 
 ### Changed
+
+- Replace Jeeps
 
 ### Deprecated
 
