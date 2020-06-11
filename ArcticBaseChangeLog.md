@@ -1,17 +1,14 @@
 # Arctic Base Change Log
 
-## [Unreleased]
-
-## [1.0.0] TBD
+## [1.0.0] - 2020-06-10
 
 ### Added
 
-- Camps and towns
+- Raider Humvees
 
 ### Changed
 
-- Finished Bunker Interior
-- Finished Roads
+- Finished Road
 
 ### Deprecated
 
@@ -19,7 +16,7 @@
 
 ### Fixed
 
-## [Released]
+- Auto change teams
 
 ## [0.7.0] - 2020-06-10
 
