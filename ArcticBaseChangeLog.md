@@ -1,5 +1,21 @@
 # Arctic Base Change Log
 
+## [1.0.5] - 2020-06-10
+
+### Added
+
+- Front gate operator radio
+
+### Changed
+
+### Deprecated
+
+### Removed
+
+### Fixed
+
+- Spawn / team set script
+
 ## [1.0.0] - 2020-06-10
 
 ### Added
